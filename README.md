@@ -38,7 +38,9 @@ Train the model over multiple epochs, tracking loss.
 
 
 ## PROGRAM
-```PYTHON
+# NAME :RANJAN KUMAR G
+# REG NO:212223240138
+```
 import pandas as pd
 import torch
 import torch.nn as nn
@@ -233,10 +235,10 @@ for w_id, true_tag, pred_tag in zip(X_test[i], y_test[i], preds):
 ### OUTPUT
 
 ## Loss Vs Epoch Plot
-
-
+<img width="797" height="623" alt="image" src="https://github.com/user-attachments/assets/5f26debf-47c5-49e5-a239-a4fe78cf7528" />
 
 ### Sample Text Prediction
+<img width="447" height="538" alt="image" src="https://github.com/user-attachments/assets/c0792ca9-67d3-46ef-a97a-e2117ba45375" />
 
 ## RESULT
 
